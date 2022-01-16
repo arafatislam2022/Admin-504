@@ -1,0 +1,56 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	  	width: 600px;
+   	 	margin: 10% auto;	
+}
+body{
+	background: url(../img/travel.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.register-section{
+	background-color:lightblue;
+	padding: 25px;
+	border-radius: 50px;
+
+}
+
+.register- section img{
+	
+
+}
+
+
+.register-section h2{
+	text-align: center;
+	font-size: 40px;
+	margin: 10px 12px;
+
+}
+
+.from-control{
+	width: 45%;
+	height: 30px;
+	padding:7px ;
+	margin: 8px;
+
+}
+
+.login-btn{
+	width: 20%;
+	margin: 7px;
+	height: 25px;
+
+}
+
+.cancle-btn{
+
+	width: 20%;
+	margin: 7px;
+	height: 25px;
+}

@@ -1,0 +1,64 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	  	width: 600px;
+   	 	margin: 10% auto;	
+}
+body{
+	background: url(../img/moon.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}	
+
+.forget-section{
+	background: #70ab85;
+    padding: 25px;
+}
+
+
+}
+
+.forget-section img{
+	width: 150%;
+	margin: 0 auto;
+	display: block;
+
+}
+
+.forget-section h2{
+	text-align: center;
+	font-size: 45px;
+	margin: 10px 0px;
+
+}
+
+.forget-section h3{
+	text-align: center;
+	font-size: 35px;
+	margin: 10px 0px;
+
+}
+
+.from-control{
+	width: 60%;
+	height: 25px;
+	padding: 5px;
+	margin: 5px 0px;
+
+
+}
+
+.search-btn{
+	width: 20%;
+	height: 25px;
+	margin: 7px;
+
+}
+
+.cancle-btn{
+	width: 20%;
+	height: 25px;
+	margin: 7px;
+}
